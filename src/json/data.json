@@ -1,0 +1,54 @@
+{
+  "daily": {
+    "Tribe quests": {
+      "completed": false
+    },
+    "Duty Roulette": {
+      "completed": false
+    },
+    "Mini Cacpot": {
+      "completed": false
+    },
+    "The Hunt": {
+      "completed": false
+    },
+    "Grand Company Turn-in": {
+      "completed": false
+    },
+    "Treasure Hunt": {
+      "completed": false
+    }
+  },
+  "weekly": {
+    "Raids": {
+      "completed": false
+    },
+    "Challenge Log": {
+      "completed": false
+    },
+    "Wondrous Tails": {
+      "completed": false
+    },
+    "Jumbo Cacpot": {
+      "completed": false
+    },
+    "The Hunt - Elite Marks": {
+      "completed": false
+    },
+    "Masked Carnivale Blue Mage Log": {
+      "completed": false
+    },
+    "Fashion Report": {
+      "completed": false
+    },
+    "Custom Deliveries": {
+      "completed": false
+    },
+    "Doman Enclave Reconstruction": {
+      "completed": false
+    },
+    "Squadron Missions": {
+      "completed": false
+    }
+  }
+}
